@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "サリシノハラ",
+  "base_artist": "りぶ",
+  "createdAt": "2026-02-09T11:50:15.357285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サリシノハラ(カバー)",
+      "artist": "りぶ",
+      "has_synced": false,
+      "path": "select/01_サリシノハラ(カバー)_りぶ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サリシノハラ",
+      "artist": "りぶ",
+      "has_synced": false,
+      "path": "select/02_サリシノハラ_りぶ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サリシノハラ",
+      "artist": "Mikito-P feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/03_サリシノハラ_Mikito-P_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サリシノハラ",
+      "artist": "Mikito-P feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/04_サリシノハラ_Mikito-P_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サリシノハラ",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/05_サリシノハラ_majiko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サリシノハラ feat.りぶ(カバー)",
+      "artist": "Mikito-P",
+      "has_synced": true,
+      "path": "select/06_サリシノハラ_feat.りぶ(カバー)_Mikito-P.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サリシノハラ",
+      "artist": "Ribu",
+      "has_synced": true,
+      "path": "select/07_サリシノハラ_Ribu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サリシノハラ",
+      "artist": "majiko (まじ娘)",
+      "has_synced": true,
+      "path": "select/08_サリシノハラ_majiko_(まじ娘).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サリシノハラ",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/09_サリシノハラ_VA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "サリシノハラ",
+      "artist": "Rib",
+      "has_synced": true,
+      "path": "select/10_サリシノハラ_Rib.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "サリシノハラ",
+      "artist": "松下",
+      "has_synced": false,
+      "path": "select/11_サリシノハラ_松下.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サリシノハラ",
+      "artist": "りぶ",
+      "has_synced": false,
+      "path": "select/pl_01_サリシノハラ_りぶ.txt"
+    }
+  ]
+}
